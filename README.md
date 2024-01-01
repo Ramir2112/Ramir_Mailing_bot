@@ -7,3 +7,5 @@ Put your text in line 19 in quotation marks.
 in line 5, write down your token
 
 Thanks download!
+
+In line 7, 16, you need to write the directory where your txt file is located.
